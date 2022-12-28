@@ -1,0 +1,5 @@
+__*
+*.exe
+*.dproj.local
+*.identcache
+/Win64/**
